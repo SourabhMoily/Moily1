@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh;
-    background-image: url('https://github.com/SourabhMoily/Moily1/blob/main/FullSizeRender.jpg'); /* Replace with the direct link to your image */
+    background-image: url('https://github.com/SourabhMoily/Moily1/blob/main/FullSizeRender.jpg?raw=true'); /* Replace with the direct link to your image */
     background-size: cover; /* Ensures the background image covers the entire container */
     background-position: center; /* Centers the background image */
 }
