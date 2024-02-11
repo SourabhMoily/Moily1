@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://previews.dropbox.com/p/thumb/ACKAM-FlOLO7F49S2Jom_gtWaGp4zv4bxyWnCpJYmkQi49cmDfCNI7WWw1gnmmbJQCLMiUcircTre45eb2KB9LWMRc5XwlTHqedLb6GhIJ1Eu-y6YutitfOpWB8fhuNqF06xQpslH4tggwP_qjFB-UWPwrVektPe4KX7_6irb3XAGlwHIBiQE3HH-zKj4S-lG-VS4X4sWanmEhhv1BG1nbY2rLpo8yghbElcXcfbUzj_a66lOweNNuzu1DSV22D0K7UmpHd3uxO3JZTmQakfayb5z_zpFDUJOxjLVlHpc5yYE6gU6ztClGyK09xh0oszuoqh8JxMYzjuBnx5QlCw9KZh/p.jpeg'); /* Replace 'path_to_your_image.jpg' with the actual path to your image */
+    background-size: cover; /* Ensures the background image covers the entire container */
+    background-position: center; /* Centers the background image */
+}
+
+.header_text {
+    font-family: 'Nunito';
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
